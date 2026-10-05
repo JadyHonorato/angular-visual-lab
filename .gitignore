@@ -1,0 +1,13 @@
+# Dependências
+node_modules/
+
+# Angular
+.angular/
+dist/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
